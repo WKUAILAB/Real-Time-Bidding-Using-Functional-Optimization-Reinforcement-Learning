@@ -1,7 +1,11 @@
-# Functional Optimization Reinforcement Learning for Real-Time Bidding
+# Project Author
+[Yining Lu](https://github.com/yining610) [Changjie Lu](https://github.com/LOUEY233)
+
+# Project Information
+## Functional Optimization Reinforcement Learning for Real-Time Bidding
 This is the research project of optimal real-time bidding in computational advertising field. 
 
-# Abstract
+## Abstract
 
 Real-time bidding is the new paradigm of programmatic advertising. An advertiser wants to make the intelligent choice of utilizing a Demand-Side Platform to improve
 the performance of their ad campaigns. Existing approaches
@@ -24,5 +28,5 @@ profitability.
 **Index Terms**—Real-Time Bidding Optimization, Multi-Agents
 Deep Reinforcement Learning, Functional Optimization.
 
-# Question
+## Question
 Any question please contact yiningl@kean.edu and lucha@kean.edu
