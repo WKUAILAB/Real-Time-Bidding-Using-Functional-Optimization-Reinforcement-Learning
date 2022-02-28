@@ -1,7 +1,3 @@
-# Project Author
-[Yining Lu](https://github.com/yining610) [Changjie Lu](https://github.com/LOUEY233)
-
-# Project Information
 ## Functional Optimization Reinforcement Learning for Real-Time Bidding
 This is the research project of optimal real-time bidding in computational advertising field. 
 
@@ -30,3 +26,6 @@ Deep Reinforcement Learning, Functional Optimization.
 
 ## Question
 Any question please contact yiningl@kean.edu and lucha@kean.edu
+
+## Author
+[Yining Lu](https://github.com/yining610) [Changjie Lu](https://github.com/LOUEY233)
